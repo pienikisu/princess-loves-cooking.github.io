@@ -36,4 +36,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-its very sweet!
+its very sweet! when everything works
