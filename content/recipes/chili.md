@@ -16,4 +16,4 @@ tags: ["chili"]
   2. pippuri  
   3. muut mausteet  
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Thai_peppers.jpg/640px-Thai_peppers.jpg" title="hot chili" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Thai_peppers.jpg" title="hot chili" >}}
