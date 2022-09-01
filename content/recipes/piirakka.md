@@ -1,5 +1,5 @@
 ---
-title: "Sweet"
+title: "piirakan paisto"
 date: 2022-09-01T20:48:12+03:00
 # weight: 1
 # aliases: ["/first"]
@@ -36,6 +36,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
   
+    pus, pieni kisu!
+    
   paistetaan piirakka
   -------------------
   
